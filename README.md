@@ -36,4 +36,6 @@ style.css      # External CSS file
 This project was created as part of the **Web Technologies** course assignment to demonstrate front-end development skills in HTML and CSS.  
 It reflects a fundamental understanding of webpage structure, visual hierarchy, and basic responsiveness without using any JavaScript or frameworks.
 
+--- 
+
 ⭐ Feel free to explore the code and suggest improvements!
